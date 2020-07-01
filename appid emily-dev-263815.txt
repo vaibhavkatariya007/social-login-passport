@@ -1,0 +1,11 @@
+appid emily-dev-263815
+app key AIzaSyBusWD_QO7-Tvcg_wemZ8PZ4mMdu3SmIU0
+
+Client ID
+1051210915239-0165kkdc4ujaoi0uu1fcgu34ugn36g8l.apps.googleusercontent.com
+Client secret
+k66Mv_OCsgke_2SXAK6pOXSg
+
+Fb
+AppId 256071119116878
+AppSecret 28c399bf64a825540ee863d504fae691
